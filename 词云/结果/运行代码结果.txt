@@ -1,0 +1,8 @@
+C:\Users\Smile\PycharmProjects\pythonProject\venv\Scripts\python.exe C:/Users/Smile/Desktop/新建文件夹/词云/代码文件/example13.py
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\Smile\AppData\Local\Temp\jieba.cache
+Loading model cost 0.569 seconds.
+Prefix dict has been built successfully.
+
+进程已结束,退出代码0
+注：运行结果都大同小异，除了运行文件目录不同，其他都保持一致，故只截取其中一个以作示范。
